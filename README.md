@@ -1,1 +1,1 @@
-# Programa en C++ de Busqueda Binaria implementando Archivos.
+# Programa en C++ de Búsqueda Lineal implementando Archivos.
